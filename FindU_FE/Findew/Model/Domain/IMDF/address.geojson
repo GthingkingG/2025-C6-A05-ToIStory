@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "51cd3de8-5f3c-4e37-ad87-35252000a23c",
+      "feature_type": "address",
+      "properties": {
+        "address": "352 Huimang-daero",
+        "country": "KR",
+        "locality": "Nam-gu, Pohang-si",
+        "postal_code": "37659",
+        "province": "KR-47",
+        "postal_code_ext": null,
+        "postal_code_vanity": null,
+        "unit": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "7fdad971-83f9-44d2-a8f3-2b149be21819",
+      "feature_type": "address",
+      "properties": {
+        "address": "352 Huimang-daero",
+        "unit": null,
+        "locality": "Nam-gu, Pohang-si",
+        "province": "KR-47",
+        "country": "KR",
+        "postal_code": "37659",
+        "postal_code_ext": "37659",
+        "postal_code_vanity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "dc65079c-8ec3-46cb-8895-cb844f6c7112",
+      "feature_type": "address",
+      "properties": {
+        "address": "80 Jigok-ro",
+        "unit": null,
+        "locality": "Pohang-si",
+        "province": "KR-47",
+        "country": "KR",
+        "postal_code": "37673",
+        "postal_code_ext": null,
+        "postal_code_vanity": null
+      },
+      "geometry": null
+    }
+  ]
+}

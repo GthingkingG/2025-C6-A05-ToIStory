@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:AppleAcademyChallenge6}",
+            "name": "Debug AppleAcademyChallenge6",
+            "program": "${workspaceFolder:AppleAcademyChallenge6}/.build/debug/AppleAcademyChallenge6",
+            "preLaunchTask": "swift: Build Debug AppleAcademyChallenge6"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:AppleAcademyChallenge6}",
+            "name": "Release AppleAcademyChallenge6",
+            "program": "${workspaceFolder:AppleAcademyChallenge6}/.build/release/AppleAcademyChallenge6",
+            "preLaunchTask": "swift: Build Release AppleAcademyChallenge6"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "30a5cb38-6f61-4104-86cd-65c4e7cdc162",
+            "feature_type": "building",
+            "properties": {
+                "alt_name": {"en": "본관"},
+                "category": "unspecified",
+                "display_point": {
+                    "coordinates": [129.3314032, 36.0349113],
+                    "type": "Point"
+                },
+                "name": {"en": "Main Building"},
+                "address_id": "7fdad971-83f9-44d2-a8f3-2b149be21819",
+                "restriction": null
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "id": "9da10650-399f-428e-b43a-1c727bfa41dc",
+            "feature_type": "building",
+            "properties": {
+                "alt_name": null,
+                "category": "unspecified",
+                "display_point": {
+                    "type": "Point",
+                    "coordinates": [129.325778, 36.014267]
+                },
+                "name": {"en": "Building C5", "ko": "C5"},
+                "address_id": "dc65079c-8ec3-46cb-8895-cb844f6c7112",
+                "restriction": null
+            },
+            "geometry": null
+        }
+    ]
+}

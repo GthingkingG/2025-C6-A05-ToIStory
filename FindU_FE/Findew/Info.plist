@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_URL</key>
+	<string>$(API_URL)</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>PretendardVariable.ttf</string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>사용자의 위치 파악을 위해 권한을 요청합니다</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>신고 및 문의 시 사진을 첨부할 수 있습니다.</string>
+</dict>
+</plist>

@@ -1,0 +1,41 @@
+{
+  "fill" : {
+    "solid" : "srgb:0.00000,0.25098,0.46275,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "sticks.svg",
+          "name" : "sticks",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              23.3984375,
+              18.0390625
+            ]
+          }
+        },
+        {
+          "hidden" : false,
+          "image-name" : "appBg.svg",
+          "name" : "appBg"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

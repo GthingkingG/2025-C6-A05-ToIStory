@@ -1,0 +1,48 @@
+# Swift build artifacts
+.build
+.swiftpm
+*.xcodeproj
+*.xcworkspace
+xcuserdata
+
+# macOS
+.DS_Store
+
+# Git
+.git
+.gitignore
+.github
+
+# Documentation
+README.md
+*.md
+docs/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# IDE
+.vscode
+.idea
+
+# Logs
+*.log
+logs/
+
+# Tests
+Tests/
+*Tests/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
