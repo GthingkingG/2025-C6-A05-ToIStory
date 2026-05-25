@@ -126,8 +126,8 @@ open Findew/Findew.xcodeproj          # Xcode 에서 실행
 
 ### 🔌 Embedded (Embedded Swift)
 ESP32 환경에서 **Embedded Swift**를 적용하며 분석하고 구현한 과정을 담은 연재 글입니다.
-- [[Embedded Swift] #1 Embedded Swift란 무엇인가?](https://velog.io/@kdm0215/EmbeddedSwift1)
-- [[Embedded Swift] #2 ESP32 환경 세팅 및 동작 확인](https://velog.io/@kdm0215/EmbeddedSwift2)
+- [[Embedded Swift] #1 Embedded Swift란 무엇인가?](https://velog.io/@kdm0215/embeddedSwift1)
+- [[Embedded Swift] #2 ESP32 환경 세팅 및 동작 확인](https://velog.io/@kdm0215/SwiftEmbedded2)
 - [[Embedded Swift] #3 Embedded Swift로 LED 제어하기](https://velog.io/@kdm0215/EmbeddedSwift3)
 - [[Embedded Swift] #4 Embedded Swift로 WiFi 연결하기](https://velog.io/@kdm0215/EmbeddedSwift4)
 - [[Embedded Swift] #5 Embedded Swift로 FTM 거리 측정 구현](https://velog.io/@kdm0215/EmbeddedSwift5)
